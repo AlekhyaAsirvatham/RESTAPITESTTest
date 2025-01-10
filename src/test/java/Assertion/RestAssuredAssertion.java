@@ -53,7 +53,7 @@ public class RestAssuredAssertion {
                 //Assertion using testng
 
 
-                Assert.assertEquals(firstName,"Alekhya");
+                Assert.assertEquals(firstName,"Alekhyaa");
                 Assert.assertNotNull(bookingId);
 
 
